@@ -58,8 +58,11 @@ This is a simple calculator app built using React Native. The app supports basic
 ```sh
 npm install
 
-npx react-native run-ios    # for iOS
-npx react-native run-android # for Android
+# for iOS
+npx react-native run-ios
+
+# for Android    
+npx react-native run-android 
 ```
 ### Usage
 
