@@ -55,8 +55,6 @@ This is a simple calculator app built using React Native. The app supports basic
    git clone https://github.com/your-username/react-native-calculator.git
    cd react-native-calculator
 
-   ## Install dependencies
-
 ```sh
 npm install
 
