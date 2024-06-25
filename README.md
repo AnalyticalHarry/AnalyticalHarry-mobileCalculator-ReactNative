@@ -83,4 +83,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - Expo Documentation
 
 ### Contact
-For any questions or feedback, please contact hemantthapa1998@example.com.
+For any questions or feedback, please contact hemantthapa1998@gmail.com
